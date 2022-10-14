@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
-        <url>http://15.206.166.202:8081/repository/all/</url>
+        <id>admin</id>
+        <name>admin</name>
+        <url>http://43.205.119.174:8081/artifactory/project</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
-        <url>http://15.206.166.202:8081/repository/all/</url>
+        <id>admin</id>
+        <name>admin</name>
+        <url>http://43.205.119.174:8081/artifactory/project</url>
     </snapshotRepository>
 </distributionManagement>
 
