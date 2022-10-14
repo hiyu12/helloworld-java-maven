@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>akash</id>
+        <id>sym</id>
         <name>release softx</name>
         <url>http://43.205.119.174:8081/artifactory/project</url>
     </repository>
     <snapshotRepository>
-        <id>akash</id>
+        <id>sym</id>
         <name>snapshot softx</name>
         <url>http://43.205.119.174:8081/artifactory/project</url>
     </snapshotRepository>
